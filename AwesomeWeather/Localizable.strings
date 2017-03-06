@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  AwesomeWeather
+
+  Created by Marc Dermejian on 06/03/2017.
+  Copyright © 2017 Marc Dermejian. All rights reserved.
+*/
+
+"Network_Error_Message_Title" = "Error";
+"Network_Error_Message_Body" = "Something went wrong :-(";
+"OK_Action" = "OK";
+"No_Locations" = "You haven't added any locations!";

@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - Commons (0.1)
+  - DZNEmptyDataSet (1.8.1)
+  - SwiftCommons (0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireImage (~> 3.2)
+  - Commons (from `https://github.com/mdermejian/Commons.git`)
+  - DZNEmptyDataSet (~> 1.8)
+  - SwiftCommons (from `https://github.com/mdermejian/SwiftCommons.git`)
+
+EXTERNAL SOURCES:
+  Commons:
+    :git: https://github.com/mdermejian/Commons.git
+  SwiftCommons:
+    :git: https://github.com/mdermejian/SwiftCommons.git
+
+CHECKOUT OPTIONS:
+  Commons:
+    :commit: 00a272cceff8cf96cb0bdcda689226ae71943533
+    :git: https://github.com/mdermejian/Commons.git
+  SwiftCommons:
+    :commit: dc3d58fe7bf818bce21002069eb1bbae94dd9d0a
+    :git: https://github.com/mdermejian/SwiftCommons.git
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  Commons: c259d06ad51295713f408d29273f252c8409d9ec
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  SwiftCommons: ebd24e22bce59c839a7f7d41bda7dd02b6b9d7aa
+
+PODFILE CHECKSUM: 752cd1999ba52cf1904c186858de2b84a7acd59a
+
+COCOAPODS: 1.2.0.beta.3
